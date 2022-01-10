@@ -10,6 +10,7 @@ namespace Iseseisevtöö_Kordamine
     {
         static void Main(string[] args)
         {
+            //4 вариант
             Console.OutputEncoding = System.Text.Encoding.UTF8;
 
             Console.WriteLine("Палиндром");
